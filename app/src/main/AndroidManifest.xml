@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nbfinal.androideatitv2client">
+    package="com.nbclient.androideatitv2client">
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -17,7 +17,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".contactUs"></activity>
+        <activity android:name="com.nbclient.androideatitv2client.contactUs"></activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -31,13 +31,13 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".TrackingOrderActivity"
+            android:name="com.nbclient.androideatitv2client.TrackingOrderActivity"
             android:label="@string/title_activity_tracking_order" />
         <activity
-            android:name=".HomeActivity"
+            android:name="com.nbclient.androideatitv2client.HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.nbclient.androideatitv2client.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -45,7 +45,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".Services.MyFCMServices">
+        <service android:name="com.nbclient.androideatitv2client.Services.MyFCMServices">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
