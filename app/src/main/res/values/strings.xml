@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NIRMAL BAKERY</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear_cart">Clear Cart</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_subscribe_news">News</string>
+    <string name="menu_menu">Categories</string>
+    <string name="menu_food_detail">Food Detail</string>
+    <string name="menu_view_orders">View Orders</string>
+    <string name="menu_cart">Cart</string>
+    <string name="sign_out">Sign out</string>
+    <string name="update_info">Update Info</string>
+    <string name="menu_food_list">Food List</string>
+
+    <string name="popular_categories">Popular</string>
+    <string name="best_deals">Recommended</string>
+    <string name="size">Size</string>
+    <string name="add_on">Addon</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDCzLK1euqRtttRfjkZUJgmQFavo-a9lIc</string>
+    <string name="title_activity_tracking_order">Map</string>
+</resources>

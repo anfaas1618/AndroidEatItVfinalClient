@@ -1,0 +1,210 @@
+{
+  "project_info": {
+    "project_number": "1086301440972",
+    "firebase_url": "https://nirmal-bakery-a3124.firebaseio.com",
+    "project_id": "nirmal-bakery-a3124",
+    "storage_bucket": "nirmal-bakery-a3124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086301440972:android:37c16aa668d6a7c2282b69",
+        "android_client_info": {
+          "package_name": "com.nbfinal.androideatitv2client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086301440972-berbnnskabfo0rkka2iq7peb0mol3uec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbfinal.androideatitv2client",
+            "certificate_hash": "7b47cd202bda3a74b45243e725b7cadda1d786e0"
+          }
+        },
+        {
+          "client_id": "1086301440972-kfhb8hecre17ieno158r4nb510n3me91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbfinal.androideatitv2client",
+            "certificate_hash": "9507eaddb7937104bd52b8ca5df0bbedfb8fadf5"
+          }
+        },
+        {
+          "client_id": "1086301440972-1oceu7c1cdi3knemugr87q1soobnjf1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbfinal.androideatitv2client",
+            "certificate_hash": "74dbd18a1221983e6a284161e44490fcfc1d4761"
+          }
+        },
+        {
+          "client_id": "1086301440972-qdljn78ukkasud6rdf93aiujfk94sphm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbfinal.androideatitv2client",
+            "certificate_hash": "7ec7bab4055bdaf2b5d5cc08e92b79b0abd94865"
+          }
+        },
+        {
+          "client_id": "1086301440972-0dv0ivoe57olv9rs4d4rthdrgrlrostk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbfinal.androideatitv2client",
+            "certificate_hash": "65553e401dde2aa5e0f181c14e8619d0af9737c3"
+          }
+        },
+        {
+          "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64cCfLbH-OkFHLYwAq_P343mdsvdhzHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086301440972:android:cc4a9594366d3415282b69",
+        "android_client_info": {
+          "package_name": "com.nbserver.androideatitv2server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086301440972-eha4anl00trri2pfpdceoq2pg4msdj3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbserver.androideatitv2server",
+            "certificate_hash": "7b47cd202bda3a74b45243e725b7cadda1d786e0"
+          }
+        },
+        {
+          "client_id": "1086301440972-7aqg9qmogm9qhj6osibckf161ohvuqq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbserver.androideatitv2server",
+            "certificate_hash": "9507eaddb7937104bd52b8ca5df0bbedfb8fadf5"
+          }
+        },
+        {
+          "client_id": "1086301440972-2qgtotiacfc256eh7vo3k1jfr7hdthjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbserver.androideatitv2server",
+            "certificate_hash": "a786248b15b4afde0f1c9fd1ca21264bef671d11"
+          }
+        },
+        {
+          "client_id": "1086301440972-dmfgdpl51qhr68kb92n8quf5fmffhaos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbserver.androideatitv2server",
+            "certificate_hash": "65553e401dde2aa5e0f181c14e8619d0af9737c3"
+          }
+        },
+        {
+          "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64cCfLbH-OkFHLYwAq_P343mdsvdhzHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086301440972:android:7cb7cecac72d7013282b69",
+        "android_client_info": {
+          "package_name": "com.nbshipper.androideatitv2shipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086301440972-e0bhntcmt76rc1e1r7nphie7uo8cig6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbshipper.androideatitv2shipper",
+            "certificate_hash": "7b47cd202bda3a74b45243e725b7cadda1d786e0"
+          }
+        },
+        {
+          "client_id": "1086301440972-u2g2s4urlg848ns1lhdjpi5ceq9165ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbshipper.androideatitv2shipper",
+            "certificate_hash": "9507eaddb7937104bd52b8ca5df0bbedfb8fadf5"
+          }
+        },
+        {
+          "client_id": "1086301440972-in0evesv98lh0nmd37aomh86f2iaoo60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbshipper.androideatitv2shipper",
+            "certificate_hash": "cbb89fb8c34dde587cc588f7cef569962157f81f"
+          }
+        },
+        {
+          "client_id": "1086301440972-cfgekif73sn9rsnjjidlpgr9l8dotqio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbshipper.androideatitv2shipper",
+            "certificate_hash": "5f3dc4266fe58d847700c1720ff55e6655daa921"
+          }
+        },
+        {
+          "client_id": "1086301440972-bblo401rs6girm53nkis1rkpklre0ipr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbshipper.androideatitv2shipper",
+            "certificate_hash": "65553e401dde2aa5e0f181c14e8619d0af9737c3"
+          }
+        },
+        {
+          "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64cCfLbH-OkFHLYwAq_P343mdsvdhzHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086301440972-h2pqq6ijapk1pskrsth3cgrfg7kj6q73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
